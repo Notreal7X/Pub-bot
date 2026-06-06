@@ -1,0 +1,8 @@
+{
+    "server_ip": "Boclitmcpe.aternos.me:53496",
+    "username": "AFKBot",
+    "jump_interval": 15,
+    "click_interval": 20,
+    "auto_reconnect": true,
+    "reconnect_delay": 10
+}
